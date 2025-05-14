@@ -4,16 +4,16 @@ FEATURES:
 
 ADD NEW TASKS,
 MARKS TASK AS COMPLETE,
-DELETE TASKS
+DELETE TASKS.
 
 TECH STACK:
 
 HTML,
 CSS,
-JAVASCRIPT
+JAVASCRIPT.
 
 FUTURE IMPROVEMENTS:
 
-Add user auhentication
-Conect to backend/database
-Add categoriesor due date
+Add user auhentication,
+Conect to backend/database,
+Add categoriesor due date.
